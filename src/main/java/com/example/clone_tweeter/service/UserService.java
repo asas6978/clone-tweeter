@@ -6,7 +6,7 @@ import com.example.clone_tweeter.domain.UserModel;
 import com.example.clone_tweeter.entity.User;
 import com.example.clone_tweeter.repository.UserRepositoryImpl;
 import com.example.clone_tweeter.util.ExceptionMessage;
-import com.example.clone_tweeter.util.Validation.UserValidation;
+import com.example.clone_tweeter.util.validation.UserValidation;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

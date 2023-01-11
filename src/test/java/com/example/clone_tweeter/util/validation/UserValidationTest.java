@@ -1,4 +1,4 @@
-package com.example.clone_tweeter.util.Validation;
+package com.example.clone_tweeter.util.validation;
 
 import org.junit.jupiter.api.Test;
 

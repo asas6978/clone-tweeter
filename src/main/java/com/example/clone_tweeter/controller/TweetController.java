@@ -1,6 +1,6 @@
 package com.example.clone_tweeter.controller;
 
-import com.example.clone_tweeter.Service.TweetService;
+import com.example.clone_tweeter.service.TweetService;
 import com.example.clone_tweeter.domain.TweetModel;
 import com.example.clone_tweeter.util.ExceptionMessage;
 import lombok.RequiredArgsConstructor;

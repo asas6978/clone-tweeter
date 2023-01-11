@@ -1,4 +1,4 @@
-package com.example.clone_tweeter.Service;
+package com.example.clone_tweeter.service;
 
 import com.example.clone_tweeter.dao.TweetDao;
 import com.example.clone_tweeter.domain.TweetModel;

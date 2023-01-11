@@ -1,6 +1,6 @@
 package com.example.clone_tweeter.controller;
 
-import com.example.clone_tweeter.Service.UserService;
+import com.example.clone_tweeter.service.UserService;
 import com.example.clone_tweeter.domain.LogInModel;
 import com.example.clone_tweeter.domain.UserModel;
 import com.example.clone_tweeter.entity.User;
